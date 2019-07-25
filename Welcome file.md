@@ -207,3 +207,6 @@ $132=60.000
 <li>Stavba <em>verze2.</em> ve které aplikujeme návrhy na vylepšení, které vznikly během pravidelných setkání každou středu v <a href="https://prusalab.cz/">PrůšaLabu</a></li>
 </ul>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTI5NDgzNzUwXX0=
+-->
