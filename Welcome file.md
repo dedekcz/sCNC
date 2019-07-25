@@ -5,6 +5,8 @@
 
 <hr>
 <hr>
+<hr>
+<hr>
 <h1 id="scnc">sCNC</h1>
 <h2 id="proč-a-a-jak-to-vzniklo">Proč a a jak to vzniklo</h2>
 <ul>
@@ -176,6 +178,3 @@
 <li>Stavba <em>verze2.</em> ve které aplikujeme návrhy na vylepšení, které vznikly během pravidelných setkání každou středu v <a href="https://prusalab.cz/">PrůšaLabu</a></li>
 </ul>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU4Mzg4NDFdfQ==
--->
