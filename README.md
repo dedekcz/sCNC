@@ -4,9 +4,6 @@
 ---
 
 <hr>
-<hr>
-<hr>
-<hr>
 <h1 id="scnc">sCNC</h1>
 <h2 id="proč-a-a-jak-to-vzniklo">Proč a a jak to vzniklo</h2>
 <ul>
@@ -179,5 +176,6 @@
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NzYyMTksLTIxMjU4Mzg4NDFdfQ==
+eyJoaXN0b3J5IjpbMTA1OTQ1MTk2NSw1NzU3NjIxOSwtMjEyNT
+gzODg0MV19
 -->
