@@ -12,7 +12,7 @@
 
 ## Aktuální stav / Červenec 2019
 
-Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl jako vzor vybrán projekt Dremel CNC [ Dremel CNC -youtube.com](https://www.youtube.com/results?search_query=dremel+cnc) + ovládací software GRBL *(Arduino Uno + CNC Shield V.3)* s následujícími modifikacemi:
+Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl jako vzor vybrán projekt Dremel CNC [ Dremel CNC -  youtube.com](https://www.youtube.com/results?search_query=dremel+cnc) + ovládací software GRBL *(Arduino Uno + CNC Shield V.3)* s následujícími modifikacemi:
 
 -   Vodicí tyče 8mm na 12mm = zvýšena tuhost a přesnost stroje  
    
@@ -133,5 +133,6 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzUxNjg3LC0xOTUyOTkyNTU4XX0=
+eyJoaXN0b3J5IjpbNzQ3NDk1MzAzLDE0ODM1MTY4NywtMTk1Mj
+k5MjU1OF19
 -->
