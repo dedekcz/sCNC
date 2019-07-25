@@ -89,55 +89,30 @@ Pro každou osu nastaveno 1.2 A viz [https://www.youtube.com/watch?v=AVlee67TQxs
 ## Konfigurace GRBL
 ```
 $0=10
-
 $1=255
-
 $2=0
-
 $3=0
-
 $4=0
-
 $5=0
-
 $6=0
-
 $10=1
-
 $11=0.010
-
 $12=0.002
-
 $13=0
-
 $20=0
-
 $21=1
-
 $22=1
-
 $23=0
-
 $24=500.000
-
 $25=1000.000
-
 $26=250
-
 $27=3.000
-
 $30=1000
-
 $31=0
-
 $32=0
-
 $100=800.000
-
 $101=800.000
-
 $102=800.000
-
 $110=2000.000
 
 $111=2000.000
@@ -166,6 +141,6 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM0MTYyMzYsNTc1NzYyMTksLTIxMj
-U4Mzg4NDFdfQ==
+eyJoaXN0b3J5IjpbMTk2MjA1OTM2NiwtMTk3MzQxNjIzNiw1Nz
+U3NjIxOSwtMjEyNTgzODg0MV19
 -->
