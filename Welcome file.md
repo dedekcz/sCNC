@@ -3,6 +3,8 @@
 
 ---
 
+<hr>
+<hr>
 <h1 id="scnc">sCNC</h1>
 <h2 id="proč-a-a-jak-to-vzniklo">Proč a a jak to vzniklo</h2>
 <ul>
@@ -133,73 +135,40 @@
 <p>Pro každou osu nastaveno 1.2 A viz <a href="https://www.youtube.com/watch?v=AVlee67TQxs">https://www.youtube.com/watch?v=AVlee67TQxs</a></p>
 <h2 id="konfigurace-grbl">Konfigurace GRBL</h2>
 <pre><code>$0=10
-
-$1=255
-
-$2=0
-
-$3=0
-
-$4=0
-
-$5=0
-
-$6=0
-
-$10=1
-
-$11=0.010
-
-$12=0.002
-
-$13=0
-
-$20=0
-
-$21=1
-
-$22=1
-
-$23=0
-
-$24=500.000
-
-$25=1000.000
-
-$26=250
-
-$27=3.000
-
-$30=1000
-
-$31=0
-
-$32=0
-
-$100=800.000
-
-$101=800.000
-
-$102=800.000
-
-$110=2000.000
-
-$111=2000.000
-
-$112=2000.000
-
-$120=100.000
-
-$121=100.000
-
-$122=100.000
-
-$130=300.000
-
-$131=500.000
-
-$132=60.000
-</code></pre>
+</code></pre><p>$1=255</p>
+<p>$2=0</p>
+<p>$3=0</p>
+<p>$4=0</p>
+<p>$5=0</p>
+<p>$6=0</p>
+<p>$10=1</p>
+<p>$11=0.010</p>
+<p>$12=0.002</p>
+<p>$13=0</p>
+<p>$20=0</p>
+<p>$21=1</p>
+<p>$22=1</p>
+<p>$23=0</p>
+<p>$24=500.000</p>
+<p>$25=1000.000</p>
+<p>$26=250</p>
+<p>$27=3.000</p>
+<p>$30=1000</p>
+<p>$31=0</p>
+<p>$32=0</p>
+<p>$100=800.000</p>
+<p>$101=800.000</p>
+<p>$102=800.000</p>
+<p>$110=2000.000</p>
+<p>$111=2000.000</p>
+<p>$112=2000.000</p>
+<p>$120=100.000</p>
+<p>$121=100.000</p>
+<p>$122=100.000</p>
+<p>$130=300.000</p>
+<p>$131=500.000</p>
+<p>$132=60.000<br>
+</p>
 <h2 id="stack">Stack</h2>
 <p><a href="https://scncworkspace.slack.com">scncworkspace.slack.com</a></p>
 <h2 id="budoucnost">Budoucnost</h2>
@@ -207,6 +176,3 @@ $132=60.000
 <li>Stavba <em>verze2.</em> ve které aplikujeme návrhy na vylepšení, které vznikly během pravidelných setkání každou středu v <a href="https://prusalab.cz/">PrůšaLabu</a></li>
 </ul>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NDgzNzUwXX0=
--->
