@@ -4,9 +4,6 @@
 ---
 
 <hr>
-<hr>
-<hr>
-<hr>
 <h1 id="scnc">sCNC</h1>
 <h2 id="proč-a-a-jak-to-vzniklo">Proč a a jak to vzniklo</h2>
 <ul>
