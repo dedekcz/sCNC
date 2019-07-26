@@ -8,6 +8,7 @@
 - Komunitní projekt + OpenSource projekt
 
 - Ovládaní stoje jako téma pro další plánované workshopy
+- Cílem je obrábění MDF, překližky nebo plexiskla. Hliníkové obrábění není cílem projektu, avšak není úplně vyloučeno.
   
 
 ## Aktuální stav / Červenec 2019
@@ -133,6 +134,6 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NDk1MzAzLDE0ODM1MTY4NywtMTk1Mj
-k5MjU1OF19
+eyJoaXN0b3J5IjpbMTM2MzczMDQxNSw3NDc0OTUzMDMsMTQ4Mz
+UxNjg3LC0xOTUyOTkyNTU4XX0=
 -->
