@@ -36,7 +36,7 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
 	 + délka 500 mm x 2 (osa Y)
 	 + délka 145 mm x 2 (osa Z) 
 
- -  Linearní ložisko 12mm x 8
+ -  Linearní ložisko 12mm x 8 - 12ks
  -  Trapézový šroub
     + délka 320 mm x 2 (osa X) - separatni 
     + délka 500 mm x 1 (osa Y) - integrovany s motorem
@@ -134,6 +134,6 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzg5NTc1LDEzNjM3MzA0MTUsNzQ3ND
+eyJoaXN0b3J5IjpbMzkyODM1MjE3LDEzNjM3MzA0MTUsNzQ3ND
 k1MzAzLDE0ODM1MTY4NywtMTk1Mjk5MjU1OF19
 -->
