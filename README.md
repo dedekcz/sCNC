@@ -30,21 +30,21 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
      + délka 300 mm x 4 (osa X)
      + délka 600 mm x 2 (osa Y)
  -   Motory NEMA 17
- -   Spojka Motor- vodící tyč x mm (2 ks)
+ -   Spojka Motor - vodící tyč x mm (2 ks)
  -   Vodící tyče 12mm:
   	 + délka 345 mm x 2 (osa X) 	 
 	 + délka 500 mm x 2 (osa Y)
 	 + délka 145 mm x 2 (osa Z) 
 
- -  Linearní ložisko 12mm x 8 - 12ks
+ -  Linearní ložisko 12mm x 8  (12ks)
  -  Trapézový šroub
     + délka 320 mm x 2 (osa X) - separatni 
     + délka 500 mm x 1 (osa Y) - integrovany s motorem
     + délka 130 mm x 1 (osa Z) - integrovany s motorem
     
- -   Vodící matice 2ks (osa X)
+ -   Vodící matice (osa X) (2 ks)
     
- -   Vodící matice s pružinou 2ks (osa Y)
+ -   Vodící matice s pružinou (osa Y) (2 ks)
     
 
  -   Spojovací materiál
@@ -134,6 +134,7 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyODM1MjE3LDEzNjM3MzA0MTUsNzQ3ND
-k1MzAzLDE0ODM1MTY4NywtMTk1Mjk5MjU1OF19
+eyJoaXN0b3J5IjpbMjEyODA5NzgzMSwzOTI4MzUyMTcsMTM2Mz
+czMDQxNSw3NDc0OTUzMDMsMTQ4MzUxNjg3LC0xOTUyOTkyNTU4
+XX0=
 -->
