@@ -27,13 +27,13 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
 ### Mechanika (Hardware)
 
  -   Hliníkový profil 2020
-     + délka Xmm x 4 (osa X)
-     + délka Ymm x 2 (osa Y)
+     + délka 300 mm x 4 (osa X)
+     + délka 600 mm x 2 (osa Y)
  -   Motory NEMA 17
  -   Spojka Motor - vodící tyč x mm
  -   Vodící tyče 12mm:
   	 + délka Xmm x 2 (osa X) 	 
-	 + délka Ymm x 2 (osa Y)
+	 + délka 500 mm x 2 (osa Y)
 	 + délka Zmm x 2 (osa Z) 
 
  -  Linearní ložisko 12mm x 8
@@ -134,6 +134,6 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzczMDQxNSw3NDc0OTUzMDMsMTQ4Mz
-UxNjg3LC0xOTUyOTkyNTU4XX0=
+eyJoaXN0b3J5IjpbLTExODE1NTY3NzMsMTM2MzczMDQxNSw3ND
+c0OTUzMDMsMTQ4MzUxNjg3LC0xOTUyOTkyNTU4XX0=
 -->
