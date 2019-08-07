@@ -40,7 +40,7 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
  -  Trapézový šroub
     + délka 320 mm x 2 (osa X) - separatni 
     + délka 500 mm x 1 (osa Y) - integrovany s motorem
-    + délka Zmm x 1 (osa Z) - integrovany s motorem
+    + délka 130 mm x 1 (osa Z) - integrovany s motorem
     
  -   Vodící matice 2ks (osa X)
     
@@ -59,7 +59,7 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
      +  6 hranná samojístící
      +  Matice do profilu
     
- -   Pracovní deska MDF (Xmm x Ymm x Zmm)
+ -   Pracovní deska MDF (358 mm x 600 mm x 18 mm)
     
 
 ### Software
@@ -134,6 +134,6 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjgzNTkxOSwxMzYzNzMwNDE1LDc0Nz
+eyJoaXN0b3J5IjpbLTY4Mjc4NTk3OSwxMzYzNzMwNDE1LDc0Nz
 Q5NTMwMywxNDgzNTE2ODcsLTE5NTI5OTI1NThdfQ==
 -->
