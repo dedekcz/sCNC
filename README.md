@@ -26,7 +26,7 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
 
 ### Mechanika (Hardware)
 
- -   Hliníkový profil 2020
+ -   Hliníkový profil 3030
      + délka 300 mm x 4 (osa X)
      + délka 600 mm x 2 (osa Y)
  -   Motory NEMA 17
@@ -134,6 +134,6 @@ $132=60.000
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Mjc4NTk3OSwxMzYzNzMwNDE1LDc0Nz
-Q5NTMwMywxNDgzNTE2ODcsLTE5NTI5OTI1NThdfQ==
+eyJoaXN0b3J5IjpbMjAzNzg5NTc1LDEzNjM3MzA0MTUsNzQ3ND
+k1MzAzLDE0ODM1MTY4NywtMTk1Mjk5MjU1OF19
 -->
