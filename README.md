@@ -83,7 +83,7 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
     
 
 ### Konfigurace kroků
-
+1/16 pro všechny osy  https://blog.protoneer.co.nz/arduino-cnc-shield-v3-00-assembly-guide/
 ### Konfigurace napájení motorů 
 Pro každou osu nastaveno 1.2 A viz [https://www.youtube.com/watch?v=AVlee67TQxs](https://www.youtube.com/watch?v=AVlee67TQxs)
 
