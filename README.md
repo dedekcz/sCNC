@@ -124,6 +124,10 @@ $130=300.000
 $131=500.000
 $132=60.000
 ```
+
+https://github.com/grbl/grbl/issues/1128
+http://3dpburner.blogspot.com/2017/02/new-cnc-shield-boards-v31-pins-swapped.html
+
 ## Stack 
 [scncworkspace.slack.com](https://scncworkspace.slack.com) 
 
