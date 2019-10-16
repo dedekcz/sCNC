@@ -29,8 +29,8 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
  -   Hliníkový profil 3030
      + délka 300 mm x 4 (osa X)
      + délka 600 mm x 2 (osa Y)
- -   Motory NEMA 17
- -   Spojka Motor - vodící tyč x mm (2 ks)
+ -   Krokové motory NEMA 17
+ -   Spojka: Motor & Trapézový šroub (2 ks)
  -   Vodící tyče 12mm:
   	 + délka 345 mm x 2 (osa X) 	 
 	 + délka 500 mm x 2 (osa Y)
@@ -38,9 +38,9 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
 
  -  Linearní ložisko 12mm x 8  (12ks)
  -  Trapézový šroub
-    + délka 320 mm x 2 (osa X) - separatni 
-    + délka 500 mm x 1 (osa Y) - integrovany s motorem
-    + délka 130 mm x 1 (osa Z) - integrovany s motorem
+    + délka 320 mm x 2 ks (osa X) - separatni 
+    + délka 500 mm x 1 ks (osa Y) - integrovany s motorem
+    + délka 130 mm x 1 ks (osa Z) - integrovany s motorem
     
  -   Vodící matice (osa X) (2 ks)
     
@@ -126,10 +126,11 @@ $132=60.000
 ```
 
 https://github.com/grbl/grbl/issues/1128
+
 http://3dpburner.blogspot.com/2017/02/new-cnc-shield-boards-v31-pins-swapped.html
 
 ## Stack 
-[scncworkspace.slack.com](https://scncworkspace.slack.com) 
+[scncworkspace.slack.com](https://scncworkspace.slack.com) Souhrn zajímavých informací k tématu, zápisy ze setkání.
 
   
 
