@@ -21,7 +21,7 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
     
 -   Modifikované díly z plastu (drobné změny v uchyceni koncových spínačů, vložené matice pro lepší uchycení, apod.)  
     
-*Stroj ve ver.1 je možné  vidět v PrůšaLabu. Vzhledem k tomu, že nejsme plně spokojeni s aktuální konstrukcí, chceme vytvořit ver.2, která bude mít pevnější konstrukci držáku osy Y. Pro aktuální potřeby zkoušení ovládání stroje přes bCNC je však konstrukce plně funkční a dostatečná*   
+*Stroj ve ver.1 je možné  vidět v PrůšaLabu. Vzhledem k tomu, že nejsme plně spokojeni s aktuální konstrukcí, chceme vytvořit ver.2, která bude mít pevnější konstrukci držáku osy Y. Pro aktuální potřeby zkoušení ovládání stroje přes bCNC je však konstrukce plně funkční a dostatečná.*   
 ## Dokumentace
 
 ### Mechanika (Hardware)
