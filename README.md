@@ -144,7 +144,7 @@ V plánu je:
  -- Zadokumentovat nastavení tiskárny (Výška vrstvy, pozice výtisku, rychlost tisku, apod)  
 - Implementovat ESP32 jako řídící MCU
 - Koncové spínače na obou stranách
-- Univerzální držák vřetena na Dremel i Proxxton. Variantně i držák na výkonnější motor s integrovaným vřetenem
+- Univerzální držák vřetena na Dremel i [Proxxton](https://www.proxxon.com/en/micromot/28485.php?fbclid=IwAR2RhFXvrWtaOaQrZYd7IWQmM-dacv4IKAbs6-oeLXhLKly7givSTRzdB3I). Variantně i držák na výkonnější motor s integrovaným vřetenem
 - Integrace endoskopické kamery do držáku osy Z
 
 
