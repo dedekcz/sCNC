@@ -11,17 +11,17 @@
 - Cílem je obrábění MDF, překližky nebo plexiskla. Hliníkové obrábění není cílem projektu, avšak není úplně vyloučeno.
   
 
-## Aktuální stav / Červenec 2019
+## Aktuální stav / Červen - Říjen 2019
 
 Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl jako vzor vybrán projekt Dremel CNC [ Dremel CNC -  youtube.com](https://www.youtube.com/results?search_query=dremel+cnc) + ovládací software GRBL *(Arduino Uno + CNC Shield V.3)* s následujícími modifikacemi:
 
--   Vodicí tyče 8mm na 12mm = zvýšena tuhost a přesnost stroje  
+-   Vodicí tyče 8mm --> 12mm = zvýšena tuhost a přesnost stroje  
    
 -   Předepnuté matice na trapézovém šroubu
     
 -   Modifikované díly z plastu (drobné změny v uchyceni koncových spínačů, vložené matice pro lepší uchycení, apod.)  
     
- 
+*Stroj ve ver.1 je možné  vidět v PrůšaLabu. Vzhledem k tomu, že nejsme plně spokojeni s aktuální konstrukcí, chceme vytvořit ver.2, která bude mít pevnější konstrukci držáku osy Y. Pro aktuální potřeby zkoušení ovládání stroje přes bCNC je však konstrukce plně funkční a dostatečná*   
 ## Dokumentace
 
 ### Mechanika (Hardware)
@@ -76,9 +76,9 @@ Vzhledem ke snadné dostupnosti hliníkových profilů a krokových motorů, byl
     
 -   CNC Sheild v3
     
--   Řadiče krokových motorů x 4 DRV8825
+-   4x Řadiče krokových motorů DRV8825
     
--   Koncové spínače x 3
+-   3 x [Koncové spínače](https://www.postavrobota.cz/Koncovy-spinac-endstop-pro-3D-tisk-a-CNC-d1655.htm?tab=download) 
 - Napájecí zdroj 12V / 5A
     
 
@@ -134,7 +134,17 @@ http://3dpburner.blogspot.com/2017/02/new-cnc-shield-boards-v31-pins-swapped.htm
   
 
 ## Budoucnost
-- Stavba *verze2.* ve které aplikujeme návrhy na vylepšení, které vznikly během pravidelných setkání každou středu v [PrůšaLabu](https://prusalab.cz/) 
+Stavba *verze2.* ve které aplikujeme návrhy na vylepšení, které vznikly během pravidelných setkání každou středu v [PrůšaLabu](https://prusalab.cz/) . 
+
+V plánu je: 
+- Využití existujících profilů, vodících tyčí a ložisek.
+- Změna držáku osy Y (integrace koncových spínačů na obě strany)
+- Všechny výtisky z materiálu ASA
+ -- Zadokumentovat nastavení tiskárny (Výška vrstvy, pozice výtisku, rychlost tisku, apod)  
+- Implementovat ESP32 jako řídící MCU
+- Koncové spínače na obou stranách
+- Univerzální držák vřetena na Dremel i Proxxton. Variantně i držák na výkonnější motor s integrovaným vřetenem
+- Integrace endoskopické kamery do držáku osy Z
 
 
 <!--stackedit_data:
